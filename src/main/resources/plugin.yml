@@ -1,0 +1,6 @@
+name: ${pom.name}
+main: com.codermason.FactionTag
+author: codermason
+version: ${pom.version}
+depend: [Factions, TagAPI]
+description: ${pom.description}
